@@ -114,7 +114,7 @@ galicia,Galicia,adriatic,austria,austria,austria,austria,austria,austria,austria
 gambia,Gambia,c_atlantic,britain,britain,britain,britain,britain,britain,britain,gambia,0,colony,3,6000,-1,-1,0,0,0,7,0.0125000002,2,senegal
 georgia,Georgia,b_sea,russia,russia,russia,russia,russia,russia,russia,georgia,1,home,3,90000,-1,1930,1,100,100,7,0.0125000002,2,"southern_russia, armenia, azerbaijan, northern_turkey, eastern_turkey"
 german_new_guinea,German New Guinea,oceania_north,germany,germany,germany,germany,britain,britain,britain,australia,0,colony,5,15000,-1,1911,6,400,200,2.5,0.0125000002,2,"territory_of_papua, dutch_new_guinea"
-gibraltar,Gibraltar,medit2,britain,britain,britain,britain,britain,britain,britain,gibraltar,0,colony,0.400000006,35000,-1,-1,0,0,0,2.5,0.0125000002,2,southern_spain
+gibraltar,Gibraltar,medit2,britain,britain,britain,britain,britain,britain,britain,gibraltar,1,colony,0.400000006,35000,-1,-1,0,0,0,2.5,0.0125000002,2,southern_spain
 gold_coast,Gold Coast,w_africa,britain,britain,britain,britain,britain,britain,britain,ghana,0,colony,5.80000019,12000,-1,-1,0,0,0,7,0.0125000002,2,"upper_volta, ivory_coast, togoland"
 grand_bahama,Grand Bahama,caribbean,britain,britain,britain,britain,britain,britain,britain,grand_bahama,0,colony,5,15000,-1,-1,0,0,0,7,0.0125000002,2,
 guam,Guam,philip_sea,spain,spain,usa,usa,usa,usa,usa,guam,0,colony,0.5,20000,-1,-1,0,0,0,2.5,0.0250000004,2,
@@ -125,7 +125,7 @@ hawaii,Hawaii,s_pacific,usa,usa,usa,usa,usa,usa,usa,hawaii,0,colony,1,20000,-1,-
 hejaz,Hejaz,red_sea,greece,greece,greece,greece,greece,greece,greece,arabia,0,colony,5,20000,-1,1935,1,500,1000,15,0.0149999997,2,"arabia, transjordania, yemen"
 heligoland,Heligoland,n_sea,germany,germany,germany,germany,germany,germany,germany,heligoland,0,colony,1,25000,-1,-1,0,0,0,2.5,0.0125000002,3,
 honduras,Honduras,caribbean,spain,spain,spain,spain,spain,spain,spain,honduras,0,colony,3.5,3000,-1,-1,0,0,0,7,0.0125000002,2,"british_honduras, nicaragua, el_salvador"
-hong_kong,Hong Kong,se_asia,britain,britain,britain,britain,britain,britain,britain,china,0,colony,4,60000,-1,-1,0,0,0,2.5,0.0125000002,2,southern_china
+hong_kong,Hong Kong,se_asia,britain,britain,britain,britain,britain,britain,britain,china,1,colony,4,60000,-1,-1,0,0,0,2.5,0.0125000002,2,southern_china
 hungary,Hungary,adriatic,austria,austria,austria,austria,austria,austria,austria,hungary,1,home,25.5,180000,-1,-1,0,0,0,7,0.0125000002,3,"austria, galicia, slovenia, croatia, serbia, romania, ukraine"
 iceland,Iceland,denmark_strait,scandinavia,scandinavia,scandinavia,scandinavia,scandinavia,scandinavia,scandinavia,iceland,0,colony,2,8000,-1,1925,2,300,100,2.5,0.0125000002,2,
 iraq,Iraq,persian_gulf,greece,greece,greece,greece,britain,britain,britain,iraq,0,colony,6.80000019,13000,-1,1910,25,3500,2000,7,0.0329999998,2,"eastern_turkey, syria, transjordania, arabia, kuwait, persia"
@@ -182,7 +182,7 @@ nigeria,Nigeria,w_africa,britain,britain,britain,britain,britain,britain,britain
 north_borneo,North Borneo,se_asia,britain,britain,britain,britain,britain,britain,britain,malaysia,0,colony,3,1500,-1,1925,10,600,500,2.5,0.0125000002,2,"brunei, sarawak, borneo"
 north_brazil,Northern Brazil,c_atlantic,portugal,portugal,portugal,portugal,portugal,portugal,portugal,brazil,1,colony,7.5,45000,-1,1930,5,800,300,7,0.0299999993,2,"french_guiana, suriname, british_guiana, venezuela, southern_colombia, peru, bolivia, south_brazil"
 north_east_england,Northeast England,n_sea,britain,britain,britain,britain,britain,britain,britain,britain,1,home,30,120000,-1,1890,100,300,300,7,0.0299999993,2,"scotland, north_west_england, eastern_england"
-north_egypt,Northern Egypt,medit,britain,britain,britain,britain,britain,britain,britain,egypt,0,colony,12,45000,-1,1890,100,950,1000,15,0.0299999993,1.5,"palestine, cyrenaica, south_egypt"
+north_egypt,Northern Egypt,medit,britain,britain,britain,britain,britain,britain,britain,egypt,1,colony,12,45000,-1,1890,100,950,1000,15,0.0299999993,1.5,"palestine, cyrenaica, south_egypt"
 north_hokkaido,North Hokkaido,japan_sea,japan,japan,japan,japan,japan,japan,japan,japan,1,home,2,45000,-1,-1,0,0,0,7,0.0125000002,3,south_hokkaido
 north_honshu,North Honshu,japan_sea,japan,japan,japan,japan,japan,japan,japan,japan,1,home,11,145000,-1,-1,0,0,0,7,0.0125000002,3,south_honshu
 north_sakhalin,North Sakhalin,οkhotsk_sea,russia,russia,russia,russia,russia,russia,russia,sakhalin,0,colony,3.5,40000,-1,1920,2,400,500,3,0.0125000002,2,south_sakhalin
@@ -246,7 +246,7 @@ shetland,Shetland,n_sea,britain,britain,britain,britain,britain,britain,britain,
 shikoku,Shikoku,ne_asia,japan,japan,japan,japan,japan,japan,japan,japan,1,home,2.5,145000,-1,-1,0,0,0,7,0.0125000002,3,
 siberian_russia,Siberian Russia,οkhotsk_sea,russia,russia,russia,russia,russia,russia,russia,russia,1,home,7.5,0,-1,1925,15,4000,2000,2.5,0.0125000002,5,"central_russia,  mongolia, kazakhstan, russian_far_east, northern_russia, eastern_siberia, southern_siberia, xinjiang, northern_china, manchuria"
 sierra_leone,Sierra Leone,c_atlantic,britain,britain,britain,britain,britain,britain,britain,sierra_leone,0,colony,4,3000,-1,-1,0,0,0,7,0.0125000002,2,"french_guinea, liberia"
-singapore,Singapore,se_asia,britain,britain,britain,britain,britain,britain,britain,singapore,0,colony,3.5,25000,-1,-1,0,0,0,2.5,0.0125000002,2,malaya
+singapore,Singapore,se_asia,britain,britain,britain,britain,britain,britain,britain,singapore,1,colony,3.5,25000,-1,-1,0,0,0,2.5,0.0125000002,2,malaya
 slovenia,Slovenia,adriatic,austria,austria,austria,austria,austria,austria,austria,slovenia,1,home,4.5,0,-1,-1,0,0,0,7,0.0500000007,2,"northeast_italy, austria, hungary, croatia"
 solomon_islands,Solomon Islands,oceania_north,germany,germany,britain,britain,britain,britain,britain,solomon_islands,0,colony,2.5,25000,-1,-1,0,0,0,2.5,0.0125000002,2,
 south_africa,South Africa,s_atlantic,britain,britain,britain,britain,britain,britain,britain,south_africa,0,colony,6,15000,-1,-1,0,0,0,7,0.0125000002,2,"southwest_africa, bechuanaland, orange_free_state, transvaal, mozambique, swaziland, basutoland"
