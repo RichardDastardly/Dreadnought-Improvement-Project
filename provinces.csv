@@ -242,7 +242,7 @@ senegal,Senegal,c_atlantic,france,france,france,france,france,france,france,sene
 serbia,Serbia,adriatic,austria,austria,austria,austria,austria,austria,austria,serbia,0,colony,5,0,-1,-1,0,0,0,2.5,0.0399999991,3,"bosnia_&_herzegovina, croatia, montenegro, central_balkans, romania, hungary, kosovo, bulgaria"
 seychelles,Seychelles,indian_west,britain,britain,britain,britain,britain,britain,britain,seychelles,0,colony,0.800000012,3000,-1,-1,0,0,0,2.5,0.0125000002,2,
 sgssi,SGSSI,s_am_east,britain,britain,britain,britain,britain,britain,britain,britain,0,colony,0.100000001,20000,-1,1920,0.200000003,200,500,2.5,0.0125000002,2,
-shetland,Shetland,n_sea,britain,britain,britain,britain,britain,britain,britain,scotland,0,home,0.150000006,10000,-1,-1,0,0,0,0.00999999978,0.0299999993,4,
+shetland,Shetland,n_sea,britain,britain,britain,britain,britain,britain,britain,scotland,1,home,0.150000006,10000,-1,-1,0,0,0,0.00999999978,0.0299999993,4,
 shikoku,Shikoku,ne_asia,japan,japan,japan,japan,japan,japan,japan,japan,1,home,2.5,145000,-1,-1,0,0,0,7,0.0125000002,3,
 siberian_russia,Siberian Russia,οkhotsk_sea,russia,russia,russia,russia,russia,russia,russia,russia,1,home,7.5,0,-1,1925,15,4000,2000,2.5,0.0125000002,5,"central_russia,  mongolia, kazakhstan, russian_far_east, northern_russia, eastern_siberia, southern_siberia, xinjiang, northern_china, manchuria"
 sierra_leone,Sierra Leone,c_atlantic,britain,britain,britain,britain,britain,britain,britain,sierra_leone,0,colony,4,3000,-1,-1,0,0,0,7,0.0125000002,2,"french_guinea, liberia"
